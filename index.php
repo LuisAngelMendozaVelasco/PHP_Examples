@@ -51,5 +51,15 @@
             <li type="square"><a href="./PHPDataTypes/Example_5.php">Example 5</a></li>
             <li type="square"><a href="./PHPDataTypes/Example_6.php">Example 6</a></li>
         </details>
+
+        <h2>PHP Strings</h2>
+        <details>
+            <summary>Examples</summary>
+            <li type="square"><a href="./PHPStrings/Example_1.php">Example 1</a></li>
+            <li type="square"><a href="./PHPStrings/Example_2.php">Example 2</a></li>
+            <li type="square"><a href="./PHPStrings/Example_3.php">Example 3</a></li>
+            <li type="square"><a href="./PHPStrings/Example_4.php">Example 4</a></li>
+            <li type="square"><a href="./PHPStrings/Example_5.php">Example 5</a></li>
+        </details>
     </body>
 </html>
