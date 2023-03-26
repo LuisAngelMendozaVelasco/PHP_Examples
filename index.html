@@ -19,56 +19,36 @@
         </script>  
     </head>
     <body>  
-        <h1><center>PHP Examples</center></h1>
+        <h1 style="text-align: center;">PHP Examples</h1>
 
         <p id="PHP Syntax"></p>
-        <script>
-            examplesList('PHP Syntax', 3);
-        </script>
+        <script>examplesList('PHP Syntax', 3);</script>
 
         <p id="PHP Comments"></p>
-        <script>
-            examplesList('PHP Comments', 3);
-        </script>
+        <script>examplesList('PHP Comments', 3);</script>
 
         <p id="PHP Variables"></p>
-        <script>
-            examplesList('PHP Variables', 6);
-        </script>
+        <script>examplesList('PHP Variables', 6);</script>
 
         <p id="PHP Echo And Print"></p>
-        <script>
-            examplesList('PHP Echo And Print', 4);
-        </script>
+        <script>examplesList('PHP Echo And Print', 4);</script>
 
         <p id="PHP Data Types"></p>
-        <script>
-            examplesList('PHP Data Types', 6);
-        </script>
+        <script>examplesList('PHP Data Types', 6);</script>
      
         <p id="PHP Strings"></p>
-        <script>
-            examplesList('PHP Strings', 5);
-        </script>
+        <script>examplesList('PHP Strings', 5);</script>
 
         <p id="PHP Numbers"></p>
-        <script>
-            examplesList('PHP Numbers', 6);
-        </script>
+        <script>examplesList('PHP Numbers', 6);</script>
 
         <p id="PHP Math"></p>
-        <script>
-            examplesList('PHP Math', 7);
-        </script>
+        <script>examplesList('PHP Math', 7);</script>
 
         <p id="PHP Constants"></p>
-        <script>
-            examplesList('PHP Constants', 4);
-        </script>
+        <script>examplesList('PHP Constants', 4);</script>
 
         <p id="PHP Operators"></p>
-        <script>
-            examplesList('PHP Operators', 41);
-        </script>
+        <script>examplesList('PHP Operators', 41);</script>
     </body>
 </html>
