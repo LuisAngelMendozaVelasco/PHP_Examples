@@ -53,5 +53,8 @@
 
         <p id="PHP If-Else And Switch Statements"></p>
         <script>examplesList('PHP If-Else And Switch Statements', 4);</script>
+
+        <p id="PHP While And For Loops"></p>
+        <script>examplesList('PHP While And For Loops', 7);</script>
     </body>
 </html>
