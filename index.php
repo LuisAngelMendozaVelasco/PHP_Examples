@@ -50,5 +50,8 @@
 
         <p id="PHP Operators"></p>
         <script>examplesList('PHP Operators', 41);</script>
+
+        <p id="PHP If-Else And Switch Statements"></p>
+        <script>examplesList('PHP If-Else And Switch Statements', 4);</script>
     </body>
 </html>
