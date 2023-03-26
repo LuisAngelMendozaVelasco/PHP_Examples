@@ -56,5 +56,8 @@
 
         <p id="PHP While And For Loops"></p>
         <script>examplesList('PHP While And For Loops', 7);</script>
+
+        <p id="PHPFunctions"></p>
+        <script>examplesList('PHPFunctions', 7);</script>
     </body>
 </html>
