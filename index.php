@@ -77,5 +77,8 @@
 
         <p id="PHP Form Validation"></p>
         <script>examplesList('PHP Form Validation', 1);</script>
+
+        <p id="PHP Date And Time"></p>
+        <script>examplesList('PHP Date And Time', 9);</script>
     </body>
 </html>
