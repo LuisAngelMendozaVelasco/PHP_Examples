@@ -68,5 +68,8 @@
 
         <p id="PHP Sorting Arrays"></p>
         <script>examplesList('PHP Sorting Arrays', 8);</script>
+
+        <p id="PHP Superglobals"></p>
+        <script>examplesList('PHP Superglobals', 5);</script>
     </body>
 </html>
