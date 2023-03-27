@@ -71,5 +71,8 @@
 
         <p id="PHP Superglobals"></p>
         <script>examplesList('PHP Superglobals', 5);</script>
+
+        <p id="PHP Regular Expressions"></p>
+        <script>examplesList('PHP Regular Expressions', 3);</script>
     </body>
 </html>
