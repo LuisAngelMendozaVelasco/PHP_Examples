@@ -62,5 +62,8 @@
 
         <p id="PHP Arrays"></p>
         <script>examplesList('PHP Arrays', 5);</script>
+
+        <p id="PHP Multidimensional Arrays"></p>
+        <script>examplesList('PHP Multidimensional Arrays', 2);</script>
     </body>
 </html>
