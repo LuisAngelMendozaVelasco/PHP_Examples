@@ -74,5 +74,8 @@
 
         <p id="PHP Regular Expressions"></p>
         <script>examplesList('PHP Regular Expressions', 3);</script>
+
+        <p id="PHP Form Validation"></p>
+        <script>examplesList('PHP Form Validation', 1);</script>
     </body>
 </html>
