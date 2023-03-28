@@ -104,5 +104,8 @@
 
         <p id="PHP Exceptions"></p>
         <script>examplesList('PHP Exceptions', 4);</script>
+
+        <p id="PHP Classes-Objects"></p>
+        <script>examplesList('PHP Classes-Objects', 11);</script>
     </body>
 </html>
