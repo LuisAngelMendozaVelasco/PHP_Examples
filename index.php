@@ -95,5 +95,8 @@
 
         <p id="PHP Sessions"></p>
         <script>examplesList('PHP Sessions', 5);</script>
+
+        <p id="PHP Filters"></p>
+        <script>examplesList('PHP Filters', 7);</script>
     </body>
 </html>
