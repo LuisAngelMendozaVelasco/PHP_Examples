@@ -113,5 +113,8 @@
 
         <p id="PHP SimpleXML Parser"></p>
         <script>examplesList('PHP SimpleXML Parser', 7);</script>
+
+        <p id="PHP XML Expat Parser"></p>
+        <script>examplesList('PHP XML Expat Parser', 1);</script>
     </body>
 </html>
