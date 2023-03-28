@@ -101,5 +101,8 @@
 
         <p id="PHP JSON"></p>
         <script>examplesList('PHP JSON', 4);</script>
+
+        <p id="PHP Exceptions"></p>
+        <script>examplesList('PHP Exceptions', 4);</script>
     </body>
 </html>
