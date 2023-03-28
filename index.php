@@ -107,5 +107,8 @@
 
         <p id="PHP Classes-Objects"></p>
         <script>examplesList('PHP Classes-Objects', 11);</script>
+
+        <p id="PHP Select Data From MySQL"></p>
+        <script>examplesList('PHP Select Data From MySQL', 4);</script>
     </body>
 </html>
