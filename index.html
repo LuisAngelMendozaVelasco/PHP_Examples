@@ -83,5 +83,8 @@
 
         <p id="PHP Include Files"></p>
         <script>examplesList('PHP Include Files', 5);</script>
+
+        <p id="PHP File Handling"></p>
+        <script>examplesList('PHP File Handling', 1);</script>
     </body>
 </html>
