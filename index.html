@@ -86,5 +86,8 @@
 
         <p id="PHP File Handling"></p>
         <script>examplesList('PHP File Handling', 1);</script>
+
+        <p id="PHP File Open-Read-Close"></p>
+        <script>examplesList('PHP File Open-Read-Close', 4);</script>
     </body>
 </html>
