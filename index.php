@@ -89,5 +89,11 @@
 
         <p id="PHP File Open-Read-Close"></p>
         <script>examplesList('PHP File Open-Read-Close', 4);</script>
+
+        <p id="PHP Cookies"></p>
+        <script>examplesList('PHP Cookies', 4);</script>
+
+        <p id="PHP Sessions"></p>
+        <script>examplesList('PHP Sessions', 5);</script>
     </body>
 </html>
