@@ -80,5 +80,8 @@
 
         <p id="PHP Date And Time"></p>
         <script>examplesList('PHP Date And Time', 9);</script>
+
+        <p id="PHP Include Files"></p>
+        <script>examplesList('PHP Include Files', 5);</script>
     </body>
 </html>
