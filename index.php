@@ -98,5 +98,8 @@
 
         <p id="PHP Filters"></p>
         <script>examplesList('PHP Filters', 7);</script>
+
+        <p id="PHP JSON"></p>
+        <script>examplesList('PHP JSON', 4);</script>
     </body>
 </html>
