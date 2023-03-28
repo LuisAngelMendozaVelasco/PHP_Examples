@@ -110,5 +110,8 @@
 
         <p id="PHP Select Data From MySQL"></p>
         <script>examplesList('PHP Select Data From MySQL', 4);</script>
+
+        <p id="PHP SimpleXML Parser"></p>
+        <script>examplesList('PHP SimpleXML Parser', 7);</script>
     </body>
 </html>
